@@ -1,0 +1,45 @@
+They goto roblox.com/login
+they inspect element, they login as usual in inspect, once the 2 step pops up (if it does not popup, tell them to login go to settings, and click sign out of all sessions.)
+https://media.discordapp.net/attachments/1020507711655383110/1020825642004131840/Screen_Shot_2022-09-17_at_6.36.18_PM.png
+They click this
+something like this HAS TO appear
+then u screenshot the request url
+https://media.discordapp.net/attachments/1020507711655383110/1020825762615537805/Screen_Shot_2022-09-17_at_6.31.06_PM.png
+u type out each of the get variables.
+then u would go to
+https://twostepverification.roblox.com/docs#!/Email/post_v1_users_userId_challenges_email_verify
+for userId u would put the user id
+then click the yellow box on the right
+change each string to each value
+for challenge id it would be the challenge id
+actiontype login
+once u type everything out like i said
+u get em to screenshare their email
+say u verified its legit and now they can go to email
+then u copy their code
+from the screenshare
+for code put the code u copied
+then once u done all that shit
+tell em to select everythign on the email
+and right click it
+to prove its legit
+(this is to stall them whiel u login)
+then
+u click try it out
+it should say smthing like this
+{
+  "verificationToken": "o4Pq07kLV0aRbkK-QJONUw"
+}
+u would copy o4Pq07kLV0aRbkK-QJONUw in this case
+then u go here
+https://auth.roblox.com/docs#!/TwoStepVerification/post_v3_users_userId_two_step_verification_login
+click the yellow box
+for user id
+put the user id which u alrdy have
+challengeid the challenge id
+verificationToken u put the verificationToken
+then click try it out
+and ur logged in
+then tell em they can put the code
+then it will say system error
+now your logged in.
