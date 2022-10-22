@@ -1,5 +1,5 @@
 They goto roblox.com/login
-they inspect element, they login as usual in inspect, once the 2 step pops up (if it does not popup, tell them to login go to settings, and click sign out of all sessions.)
+they inspect element, go to network. they login as usual in network, once the 2 step pops up (if it does not popup, tell them to login go to settings, and click sign out of all sessions.)
 https://media.discordapp.net/attachments/1020507711655383110/1020825642004131840/Screen_Shot_2022-09-17_at_6.36.18_PM.png
 They click this
 then u screenshot the request url
